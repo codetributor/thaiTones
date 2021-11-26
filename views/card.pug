@@ -1,0 +1,32 @@
+extends layout.pug
+
+block content
+    section#content 
+        h2= title
+        h2 mid? low? falling? high? rising?
+        audio(controls='')
+            source(src=audioPath, type='audio/mpeg')
+        if(answer)
+                h2= tone
+                if all
+                    a(href=`/cards/${title}?id=${id}&all=true` class="text-decoration-none") Hide Answer
+                else    
+                    a(href=`/cards/${title}?id=${id}` class="text-decoration-none") Hide Answer
+                br
+                if all
+                    a(href=`/cards` class="fs-5 text-decoration-none") Give me another tone! 
+                else
+                    a(href=`/cards/${title}` class="fs-5 text-decoration-none") Give me another tone!
+        else 
+            br
+            if all 
+                a(href=`/cards/${title}?id=${id}&answer=tone&all=true` class="text-decoration-none") Show Answer
+            else 
+                a(href=`/cards/${title}?id=${id}&answer=tone` class="text-decoration-none") Show Answer
+            br
+            if all 
+                a(href=`/cards` class="fs-5 text-decoration-none") Give me another tone!
+            else
+                a(href=`/cards/${title}` class="fs-5 text-decoration-none") Give me another tone!
+        
+        

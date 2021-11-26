@@ -1,0 +1,19 @@
+extends layout.pug 
+
+block content
+    .container
+        .row
+            .col(class="container") 
+                include includes/header.pug
+        .row
+            .col(class="container")
+                if name
+                    h2 Sawadi Krap, #{name}!
+                    form(action="/goodbye", method="post" class="mb-3")
+                        button(type="submit") Good Bye
+        .row
+            .col(class="container")
+                section#content 
+                    p      
+                        a(href="/cards" class="fs-3 text-decoration-none") Begin
+        

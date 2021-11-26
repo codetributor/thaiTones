@@ -1,0 +1,267 @@
+{
+    "data": {
+        "maa": [
+            {
+                "title": "maa",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Maa/mid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Maa/low.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Maa/falling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Maa/high.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Maa/rising.m4a"
+            }
+        ],
+
+        "yaa": [
+            {
+                "title": "yaa",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Yaa/yaaMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Yaa/yaaLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Yaa/yaaFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Yaa/yaaHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Yaa/yaaRising.m4a"
+            }
+        ],
+
+        "sii": [
+            {
+                "title": "sii",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Sii/siiMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Sii/siiLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Sii/siiFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Sii/siiHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Sii/siiRising.m4a"
+            }
+        ],
+
+        "seuua": [
+            {
+                "title": "seuua",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Seuua/seuuaMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Seuua/seuuaLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Seuua/seuuaFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Seuua/seuuaHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Seuua/seuuaRising.m4a"
+            }
+        ],
+
+        "san": [
+            {
+                "title": "san",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/San/sanMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/San/sanLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/San/sanFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/San/sanHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/San/sanRising.m4a"
+            }
+        ],
+
+        "sai": [
+            {
+                "title": "sai",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Sai/saiMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Sai/saiLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Sai/saiFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Sai/saiHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Sai/saiRising.m4a"
+            }
+        ],
+
+        "rai": [
+            {
+                "title": "rai",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Rai/raiMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Rai/raiLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Rai/raiFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Rai/raiHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Rai/raiRising.m4a"
+            }
+        ],
+
+        "naa": [
+            {
+                "title": "naa",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Naa/naaMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Naa/naaLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Naa/naaFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Naa/naaHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Naa/naaRising.m4a"
+            }
+        ],
+
+        "mai": [
+            {
+                "title": "mai",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Mai/maiMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Mai/maiLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Mai/maiFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Mai/maiHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Mai/maiRising.m4a"
+            }
+        ],
+
+        "kaaw": [
+            {
+                "title": "kaaw",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Kaaw/kaawMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Kaaw/kaawLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Kaaw/kaawFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Kaaw/kaawHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Kaaw/kaawRising.m4a"
+            }
+        ],
+
+        "glai": [
+            {
+                "title": "glai",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Glai/glaiMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Glai/glaiLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Glai/glaiFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Glai/glaiHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Glai/glaiRising.m4a"
+            }
+        ]
+    }
+}
