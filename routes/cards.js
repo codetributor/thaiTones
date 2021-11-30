@@ -4,7 +4,7 @@ const { data } = require('../data/flashCardData.json');
 
 router.get('/', (req, res) => {
     const { all } = req.query
-    const random1 = Math.floor(Math.random() * 11);
+    const random1 = Math.floor(Math.random() * 15);
     const random2 = Math.floor(Math.random() * 5);
     let word;
 
@@ -30,6 +30,14 @@ router.get('/', (req, res) => {
         word = 'kaaw';
     } else if(random1 === 10) {
         word = 'glai'
+    } else if(random1 === 11) {
+        word = 'fan';
+    } else if(random1 === 12) {
+        word = 'dii';
+    } else if(random1 === 13) {
+        word = 'chin';
+    } else if(random1 === 14) {
+        word = 'baang';
     }
     res.redirect(`/cards/${word}?id=${random2}&all=true`)
 });

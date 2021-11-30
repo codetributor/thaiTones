@@ -262,6 +262,102 @@
                 "tone": "rising tone",
                 "audio": "/static/assets/audio/Glai/glaiRising.m4a"
             }
+        ],
+
+        "fan": [
+            {
+                "title": "fan",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Fan/fanMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Fan/fanLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Fan/fanFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Fan/fanHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Fan/fanRising.m4a"
+            }
+        ],
+
+        "dii": [
+            {
+                "title": "dii",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Dii/diiMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Dii/diiLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Dii/diiFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Dii/diiHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Dii/diiRising.m4a"
+            }
+        ],
+
+        "chin": [
+            {
+                "title": "chin",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Chin/chinMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Chin/chinLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Chin/chinFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Chin/chinHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Chin/chinRising.m4a"
+            }
+        ],
+
+        "baang": [
+            {
+                "title": "baang",
+                "tone": "mid tone",
+                "audio": "/static/assets/audio/Baang/baangMid.m4a"
+            },
+            {
+                "tone": "low tone",
+                "audio": "/static/assets/audio/Baang/baangLow.m4a"
+            },
+            {
+                "tone": "falling tone",
+                "audio": "/static/assets/audio/Baang/baangFalling.m4a"
+            },
+            {
+                "tone": "high tone",
+                "audio": "/static/assets/audio/Baang/baangHigh.m4a"
+            },
+            {
+                "tone": "rising tone",
+                "audio": "/static/assets/audio/Baang/baangRising.m4a"
+            }
         ]
     }
 }
